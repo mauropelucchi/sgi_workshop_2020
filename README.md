@@ -5,6 +5,15 @@ Workshop on Machine Learning in production for Statistics and Information Manage
 
 In this repository you can find the materials from the Workshop 2020 @ Data Mining course (STATISTICA E GESTIONE DELLE INFORMAZIONI - University of Milano Bicocca)
 
+The workshop consists of a notebook (on Databricks) about the training of a basic Machine Learning model.
+The notebook covers:
+
+- Load of the data and ETL process
+- Processing of the text (remove stopwords, cleaning, ...)
+- Train of a Word2Vec model
+- Build of the spark pipeline (Preprocessing, String To Index, ML, Index To String, ....)
+- Check of the classification performances
+
 
 # MIT License
 
