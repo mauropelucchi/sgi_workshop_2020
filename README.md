@@ -7,7 +7,7 @@ In this repository you can find the materials from the Workshop 2020 @ Data Mini
 
 The workshop consists of two topics:
 
-- (https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science)[Cloud Platform for Data Science]: in this section we presente Google Colaboratory and Databricks
+- [Cloud Platform for Data Science](https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science): in this section we presente Google Colaboratory and Databricks
 - Big Data in a real project
 
 In the second topic, the workshop presents a notebook (on Databricks) about the training of a basic Machine Learning model, that covers:
